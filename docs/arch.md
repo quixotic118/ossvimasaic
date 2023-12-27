@@ -1,5 +1,10 @@
 ## Arch
 
+### Config
+`--store=./store`
+
+`superior spring config: ./config`
+
 ### Storage
 
 /{store dir}  
